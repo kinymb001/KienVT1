@@ -11,3 +11,5 @@ Route::get('/', function () {
 // function 1 : feature/KI_Test-git-02
 
 // function : practice handle conflict feature/KI_Test-git
+
+// function : practice handle conflict feature/KI_Test-git-02
